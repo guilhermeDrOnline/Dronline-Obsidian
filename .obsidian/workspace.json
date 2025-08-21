@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "464e52ce61266b73",
+    "type": "split",
+    "children": [
+      {
+        "id": "33c4a6069664d96f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "996627888aaad7b4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Projetos/Faturamento Unimed Vitoria/Faturamento Unimed Vitoria.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Faturamento Unimed Vitoria.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb4b7e6f7cac434c",
+    "type": "split",
+    "children": [
+      {
+        "id": "efefa36d0919464d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "802a9f95d3fae124",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "0eb7f35b38962b6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "edaf8d3580de5c70",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5
+  },
+  "right": {
+    "id": "c8e449449189fb6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc7abe179321297c",
+        "type": "tabs",
+        "dimension": 61.440677966101696,
+        "children": [
+          {
+            "id": "f5458ce8aeb489c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projetos/Faturamento Unimed Vitoria/Faturamento Unimed Vitoria.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Faturamento Unimed Vitoria.excalidraw"
+            }
+          },
+          {
+            "id": "159180443b818201",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projetos/Faturamento Unimed Vitoria/Faturamento Unimed Vitoria.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Faturamento Unimed Vitoria.excalidraw"
+            }
+          },
+          {
+            "id": "325fbdb0eb2a746c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2ede2e890f01a0e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projetos/Faturamento Unimed Vitoria/Faturamento Unimed Vitoria.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Faturamento Unimed Vitoria.excalidraw"
+            }
+          },
+          {
+            "id": "6e3ade84cdb8ae96",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "ef34e23a72e11622",
+        "type": "tabs",
+        "dimension": 38.559322033898304,
+        "children": [
+          {
+            "id": "8f37e135be25963b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Criar nova base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "996627888aaad7b4",
+  "lastOpenFiles": [
+    "Projetos/Faturamento Unimed Vitoria/Levantamento.md",
+    "Projetos/Faturamento Unimed Vitoria/RN-AUT-8.56.0 (1) (1).pdf",
+    "Projetos/Faturamento Unimed Vitoria/Faturamento Unimed Vitoria.excalidraw.md",
+    "Excalidraw/Drawing 2025-08-19 09.22.39.excalidraw.md",
+    "Daily Notes/2025-08-219.md",
+    "Daily Notes/2025-08-21.md",
+    "Daily Notes/Daily Notes Exemplo.md",
+    "Daily Notes/2025-08-19.md",
+    "2025-08-21.md",
+    "Projetos/Faturamento Unimed Vitoria/Sprint 53 — DRONLINE-PROJETO — quadro Scrum - Jira.html",
+    "Projetos/Faturamento Unimed Vitoria/Sprint 53 — DRONLINE-PROJETO — quadro Scrum - Jira_files/shared~vendor~stable~ar.100d5f3a.js",
+    "Projetos/Faturamento Unimed Vitoria/Sprint 53 — DRONLINE-PROJETO — quadro Scrum - Jira_files/upgrade-edition-menu-item.7f4a54a2.js",
+    "Projetos/Faturamento Unimed Vitoria/Sprint 53 — DRONLINE-PROJETO — quadro Scrum - Jira_files/shared~vendor~atlassian~ar.runtime.917b5d3e.js",
+    "Projetos/Faturamento Unimed Vitoria/Sprint 53 — DRONLINE-PROJETO — quadro Scrum - Jira_files/shared~vendor~atlassian~ar.f8303d3f.js",
+    "Projetos/Faturamento Unimed Vitoria/Sprint 53 — DRONLINE-PROJETO — quadro Scrum - Jira_files/shared~vendor~ar.4ba7e3b7.js",
+    "Projetos/Faturamento Unimed Vitoria/Sprint 53 — DRONLINE-PROJETO — quadro Scrum - Jira_files/shared~vendor~atlaskit~ar.7bc8a9f2.js",
+    "Projetos/Faturamento Unimed Vitoria/Sprint 53 — DRONLINE-PROJETO — quadro Scrum - Jira_files/shared~commons~stable~ar.aed63774.js",
+    "Projetos/Faturamento Unimed Vitoria/Sprint 53 — DRONLINE-PROJETO — quadro Scrum - Jira_files/shared~commons~atlassian~ar.runtime.68b393e8.js",
+    "Daily Notes/daily.md",
+    "Daily Notes/2025-08-20.md",
+    "Sem título.canvas",
+    "crie um link.md",
+    "Excalidraw/Drawing 2025-08-19 08.13.28.excalidraw.md",
+    "Bem-vindo.md",
+    "Excalidraw/Drawing 2025-08-14 15.17.02.excalidraw.md",
+    "Excalidraw/Drawing 2025-08-13 00.00.09.excalidraw.md",
+    "Excalidraw/Drawing 2025-08-12 23.59.08.excalidraw.md"
+  ]
+}
